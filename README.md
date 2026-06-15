@@ -21,7 +21,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy creating content, hiking, mentoring others, etc. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](file:///C:/Users/I'ts%20me%20Jems%20Salas/Downloads/Portfolio/Portfoliosalas.html)
+### [🏆 Check Out My Full Portfolio Website](file:///C:/Users/I'ts%20me%20Jems%20Salas/Downloads/Portfolio/Portfoliosalas.html/)
       
 ## 🔭 What I'm Currently Working On 
 
